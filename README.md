@@ -31,12 +31,6 @@
 - 🚀 Create custom .NET application launchers
 - 🔗 Bridge native and managed code seamlessly
 
-## 📋 Requirements
-
-- 🔷 **.NET 8.0 Runtime** or higher - [Download](https://dotnet.microsoft.com/download/dotnet/8.0)
-- 🪟 **Windows OS**
-- 📦 **nethost.dll** (included with .NET SDK)
-
 ## 🛠️ Building
 
 ### Prerequisites
