@@ -240,7 +240,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📚 Additional Resources
 
-- [.NET Hosting Documentation](https://learn.microsoft.com/en-us/dotnet/core/tutorials/netcore-hosting)
 - [hostfxr API Reference](https://github.com/dotnet/runtime/blob/main/src/native/corehost/hostfxr.h)
 - [Write a custom .NET runtime host](https://learn.microsoft.com/en-us/dotnet/core/tutorials/netcore-hosting)
 
