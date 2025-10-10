@@ -228,7 +228,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [.NET Hosting APIs](https://learn.microsoft.com/en-us/dotnet/core/tutorials/netcore-hosting) - Built with .NET Hosting APIs
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
-- The .NET community for excellent documentation and support
 
 ## 📚 Additional Resources
 
