@@ -9,8 +9,6 @@
 
 **A lightweight native C++ host for running .NET assemblies without modification. Perfect for hosting WPF applications, console apps, or any .NET DLL with a `Main` method.** 🎯
 
-[Features](#-features) • [Requirements](#-requirements) • [Building](#-building) • [Usage](#-usage)
-
 </div>
 
 ---
